@@ -1,0 +1,127 @@
+100 Days of Python 
+56 hours
+
+START HERE!!
+12 Rules to Code
+1. 20 mins rule
+2. Code for purpose
+3. No perfect language to learn
+4. Understand what you're writing
+5. Its Okay to not know
+6. Be a Copycat
+7. Be accountable to someone, show your work
+8. Keep Learning
+9. Play Foosbal
+10. Get a Mentor
+11. Get a habit on chunking 
+12. Break someone else code
+
++++++++++++++++++++SEPT 22
+Day 1""
+"Journey with a thousand miles begins with one step"|
+	Band-name-generator
+
+Day 2""
+Data Types, Numbers, Operation, Type Conversion, f-strings
+[]=subscript, index
+*convert str() int()
+*number manipulation and f strings
+--Tip_calculator * Bmi calculator & Left Days,week,month before 90 years
+
+Day 3""
+Conditional Statements, Logical Operators, Code Blocks and Scope.
+if-else conditions ===
+
+	if conditions:
+		do this
+	else: 
+		do this
+draw.io [drawchart] = >> flow chart
+--Leap Year & BMI 2.0 & Love calculator
+
+
+Day 4""
+Randomisation and python lists
+import random, random.randint(start,last)
+Data Structure // "Things that list can do in Python" 
+1Tutorial Trap, 2ask question(context,tried,ask), 3Copy carefully,4Focus Fundamentals, 5Be Patient, 6Learn Debugging, 7Do Real Projects,8Burnouts..
+//Learning how to code is not a quick process. 
+*Nested List -- TreasureMap 
+*Rock Paper, Scissor
+===CODE EVERYDAY , CODING IS LIKE GYM, 8 hours of CODE EVERYDAY ===
++++++++++++++++++++SEPT 23
+Day 5"" 
+Python Loops
+*PyPassword Generator
+	for item in list_of_items:
+	    #Do something to each item
+	for number in range(a, b):
+	    print(number)
+--Sum, Len using for loops
+--fizzbuzz & MAX,MIN using Loops
+
+Day 6""
+Function, Code Blocks & while loops
+*Defining Functions
+	def my_functions():
+	    #do this
+	    #Then do this
+	    #Finally do this
+*Calling Functions // my_function()
+*Karel the robot Maze & Hurdles
+*While Loop
+	while something_is_true
+	   #Do something repeatedly
+	""The struggle is necessary, the more you struggle the more you learn""
+
+Day 7""
+	==How to think like a Programmer
+		Think medthodically or problem solver
+		Decomposition, break down big problem to small problem, prerequisite parts.
+		How to think algorithmically. like creating a recipe. 
+
+	10,000 hours rule. (Book: Peak. Secrets from the new science of expertise-anders ericson)
+	deliberate practice__
+		#1 clear,well defined goals
+		#2 100% focus attention
+		#3 Occurs outside comfort zone
+
+	Identify your weakness...(book: ultralearning-scoot h young)
+	#1 make note of it
+	#2 run through drill repeatedly
+	--Manage your energy levels effectively
+	#1 sleep #2 take break regularly #3 regular moderate exercise
+__Hangman // For & while loops, if /else, Lists, Strings, Ranges, Modules.
+	1. Understand the Problem & concepts
+	2. Create a flowchart
+
+------
+-flowchart
+-random word, for letter in random_word
+-word to list changing, 2 input [list , word[position]
+-replacing blank
+	for i in range(100)
+		
+
+-while not condition, 
+	if this not in list:
+		statement.
+
+Day 8"" Fucntion & Inputs, Parameters and Arguments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
